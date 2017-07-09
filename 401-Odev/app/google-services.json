@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "590580127408",
+    "firebase_url": "https://gyk-odev.firebaseio.com",
+    "project_id": "gyk-odev",
+    "storage_bucket": "gyk-odev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590580127408:android:2739fbfdc3329d31",
+        "android_client_info": {
+          "package_name": "com.example.senturk.a401_odev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590580127408-ujbgj6tk0bfvumf4jqcdkpebnj0tfal6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.senturk.a401_odev",
+            "certificate_hash": "a8cfa534066dac32a8007cf2e6d641ebbcb04124"
+          }
+        },
+        {
+          "client_id": "590580127408-rc6vgnm53ut57621glkrgss5uvdoci5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgBsnZaR6DWMussVIUm7fJZ3pIM0Dil7s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590580127408-rc6vgnm53ut57621glkrgss5uvdoci5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

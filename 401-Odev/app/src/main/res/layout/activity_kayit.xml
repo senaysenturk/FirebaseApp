@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.senturk.a401_odev.KayitActivity"
+    android:orientation="vertical"
+    android:gravity="center">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:orientation="vertical">
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/etK_Mail"
+            android:hint="Email adresi"
+            android:inputType="textEmailAddress"/>
+        <EditText
+            android:id="@+id/etK_Sifre"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="Şifre"
+            android:inputType="textPassword" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Kaydet"
+            android:id="@+id/btK_Kaydet"/>
+    </LinearLayout>
+
+</LinearLayout>
